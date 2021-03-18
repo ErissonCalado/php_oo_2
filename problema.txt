@@ -1,0 +1,6 @@
+criar um projeto voltado para escola, para gerir melhor e facilitar a gestão pedagógica, a gestão administrativa, a gestão financeira, a gestão de recursos humanos, 
+a gestão da comunicação, a gestão de tempo e eficiência de processos, interligando todos os pilares, criando classes para alunos, professores, pais ou responsáveis, 
+outros funcionários, entre outros. tendo suporte ao cliente(pais ou responsáveis) para facilitar a comunicação entre escola e responsáveis e também entre professores e alunos,
+sobre atividades, feriados, provas, trabalhos individuais e em grupo, podendo divulgar as notas de cada aluno, no cadastro deles. assim ajudando o crescimento da escola,
+minimizando os problemas e dificuldades que toda escola enfrenta,
+solução: criar um site com cadastro de alunos, professores, direção e responsaveis
